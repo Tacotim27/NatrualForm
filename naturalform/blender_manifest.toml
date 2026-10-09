@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "naturalform"
+version = "1.0.0"
+name = "NaturalForm"
+tagline = "Procedural humans, animals and organic creatures for AI agents"
+maintainer = "NaturalForm contributors"
+type = "add-on"
+website = "https://github.com/Tacotim27/NatrualForm"
+
+tags = ["Add Mesh", "Modeling", "Rigging"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
